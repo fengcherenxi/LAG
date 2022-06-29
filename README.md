@@ -47,5 +47,5 @@ numpy==1.19.5
 ```
 # Citation
 ```
-Jie Yang, Wenjian Sun, Yang Luo, Chunbo Luo. A Benchmark Dataset of Endoscopic Images and Novel Deep Learning Method to Detect Intestinal Metaplasia and Gastritis Atrophy [J].[Under review]
+Jie Yang, Yan Ou, Zhiqian Chen, Juan Liao, Wenjian Sun, Yang Luo, Chunbo Luo. A Benchmark Dataset of Endoscopic Images and Novel Deep Learning Method to Detect Intestinal Metaplasia and Gastritis Atrophy [J].[Under review]
 ```
