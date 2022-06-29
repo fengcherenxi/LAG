@@ -4,7 +4,7 @@ Official pytorch codes and models for paper:
 A Benchmark Dataset of Endoscopic Images and Novel Deep Learning Method to Detect Intestinal Metaplasia and Gastritis Atrophy
 
 # Pretrained Model & Datasets
-The pretrained models can be found in folder /checkpoint.
+Our models can be found in our Netdisk: [our-model](https://pan.baidu.com/s/1O2P7n38AJExaximzRy8vsA ) && Extraction code is: 1234
 
 To view a sample of the data: [data-samples](https://github.com/fengcherenxi/LAG/tree/main/data)
 
