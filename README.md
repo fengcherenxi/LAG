@@ -12,11 +12,11 @@ To download data please contact: juanliao@scu.edu.cn && c.luo@uestc.edu.cn
 
 To view the test results on video: [video-result](https://github.com/fengcherenxi/LAG/blob/main/resources/Video_results.mp4)
 
-# Inspiration Model Architecture
+# Data Samples
 ![](https://github.com/fengcherenxi/LAG/blob/main/resources/datasets.png)
 
 The first row shows the WLI samples; the second row shows the LCI samples of the same positions. Each column indicates the position where the images were taken.
-# Experiments
+# Experiments Results
 ![](https://github.com/fengcherenxi/LAG/blob/main/resources/model_test_IM.png)
 
 ![](https://github.com/fengcherenxi/LAG/blob/main/resources/model_test_GA.png)
