@@ -1,7 +1,7 @@
 # LAG-Pytorch
 Official pytorch codes and models for paper:
 
-Jie Yang, Yan Ou, Zhiqian Chen, Juan Liao, Wenjian Sun, Yang Luo, Chunbo Luo. A Benchmark Dataset of Endoscopic Images and Novel Deep Learning Method to Detect Intestinal Metaplasia and Gastritis Atrophy. Submission to IEEE Journal of Biomedical and Health Informatics. [Under review]
+Jie Yang, Yan Ou, Zhiqian Chen, Juan Liao, Wenjian Sun, Yang Luo, Chunbo Luo. A Benchmark Dataset of Endoscopic Images and Novel Deep Learning Method to Detect Intestinal Metaplasia and Gastritis Atrophy. Submission to IEEE Journal of Biomedical and Health Informatics.
 
 # Pretrained Model & Datasets
 Our models can be found in our Netdisk: [our-model](https://pan.baidu.com/s/1O2P7n38AJExaximzRy8vsA ) && Extraction code is: 1234
@@ -28,5 +28,5 @@ numpy==1.19.5
 ```
 # Citation
 ```
-Jie Yang, Yan Ou, Zhiqian Chen, Juan Liao, Wenjian Sun, Yang Luo, Chunbo Luo. A Benchmark Dataset of Endoscopic Images and Novel Deep Learning Method to Detect Intestinal Metaplasia and Gastritis Atrophy [J].[Under review]
+Jie Yang, Yan Ou, Zhiqian Chen, Juan Liao, Wenjian Sun, Yang Luo, Chunbo Luo. A Benchmark Dataset of Endoscopic Images and Novel Deep Learning Method to Detect Intestinal Metaplasia and Gastritis Atrophy [J].
 ```
